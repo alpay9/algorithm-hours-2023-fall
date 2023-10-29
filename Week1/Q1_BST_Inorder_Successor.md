@@ -27,4 +27,4 @@ struct TreeNode {
 };
 ```
 
-[Solution](S1_BST_Inorder_Successor.md)
+[Solution](S1_BST_Inorder_Successor.cpp)
