@@ -35,6 +35,7 @@ On top of everything, what if you are only limited with 4 transactions in total.
 
 
 ```c++
+#include <vector>
 using namespace std;
 
 int maxEarning(vector<int>& nums){

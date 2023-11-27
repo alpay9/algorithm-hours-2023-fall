@@ -30,9 +30,11 @@ Other possible output: [s, g, e, n, l, d]
 
 
 ```c++
+#include <vector>
+#include <string>
 using namespace std;
 
-bool detectCycle(vector<int>& nums){
+vector<char> alienAlphabet(string& alien_text){
 	// write your code here
 
 }
