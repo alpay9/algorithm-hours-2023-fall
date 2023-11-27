@@ -17,7 +17,8 @@
 
 <details>
   <summary>What is complexity of an algorithm?</summary>
-  &emsp; We said that algorithm is the steps between given input and desired output last week. Different algorithms can be used to achieve the same result, and complexity is the measure we used to determine which one is more efficient. Size of input (generally called 'n') is the measurement of complexities.
+  &emsp; We said that algorithm is the steps between given input and desired output last week. Different algorithms can be used to achieve the same result, and complexity is the measure we used to determine which one is more efficient. Size of input (generally called 'n') is the measurement of complexities. <br>
+  <a href="https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/" target="_blank" rel="noreferrer noopener">GeeksforGeeks Explanation</a>
   <details>
 		<summary>What is big-o notation?</summary>
 		&emsp; When we are testing our algorithms, we generally use big-o notation, which means that it is the worst-case scenario (upper bound) of the algorithm. And within big-o notation, coefficients (2n -> n) and smaller terms (n^2+n -> n^2) are ignored, because when the input size gets bigger, coefficients and the smaller terms are dominated. (This is the simplest way I can explain, please search it on google for more)
@@ -35,7 +36,7 @@
 
 [Cycle Detection](Week2/Q1_Cycle_Detection.md) <br>
 [Best time to buy stock](Week2/Q2_Best_Time_To_Buy_Stock.md) <br>
-[Sliding Window](Week2/Q3_Slide.md)
+[Alien Dictionary](Week2/Q3_Alien_Alphabet.md)
 
 ### Week 3
 To be added...
