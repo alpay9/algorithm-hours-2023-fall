@@ -11,7 +11,7 @@
 
 [BST Inorder Successor](Week1/Q1_BST_Inorder_Successor.md) <br>
 [Infinite Chessboard](Week1/Q2_Infinite_Chessboard.md) <br>
-[Matrix Sum](Week1/Q3_Matrix_Sum.md)
+[Matrix Sum](Week1/Q3_Matrix_Sum.md) (To be added...)
 
 ### Week 2
 

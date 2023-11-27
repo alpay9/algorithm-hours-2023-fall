@@ -38,7 +38,7 @@ bool detectCycle(vector<int>& nums){
 }
 ```
 
-[Solution](S1_Cycle_Detection.cpp)
+[Solution](S3_Alien_Alphabet.cpp) (To be added...)
 
 ### Follow-up:
 Your research group realized that some aliens has their own dialects which makes communication harder. This means that there might be some aliens talking with some invalid ordering of words. This makes their communication harder to understand for strangers, this introduces privacy and security to their communication. Only the close enough aliens can understand them directly. How would you approach to the same question after this information? <br> <br>
