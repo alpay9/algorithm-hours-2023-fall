@@ -1,7 +1,7 @@
 # BST Inorder Successor
 
 ### Prerequisities:
-[Binary Search Tree (BST)](Prereq_BST.md)
+[Binary Search Tree (BST)](https://www.geeksforgeeks.org/introduction-to-binary-search-tree-data-structure-and-algorithm-tutorials/)
 
 ### Question:
 In a Binary Search Tree (BST), an Inorder Successor of a node is defined as the node with the smallest value greater than the key of the input node. Given a node inputNode in a BST, you’re asked to write a function findInOrderSuccessor that returns the Inorder Successor of inputNode. If inputNode has no Inorder Successor, return null. <br>
