@@ -36,7 +36,7 @@
 
 [Cycle Detection](Week2/Q1_Cycle_Detection.md) <br>
 [Best time to buy stock](Week2/Q2_Best_Time_To_Buy_Stock.md) <br>
-[Alien Dictionary](Week2/Q3_Alien_Alphabet.md)
+[Alien Alphabet](Week2/Q3_Alien_Alphabet.md)
 
 ### Week 3
 To be added...
